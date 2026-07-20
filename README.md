@@ -6,7 +6,7 @@ This project filters Variant Call Format (VCF) files to retain high-confidence m
 
 The filtering pipeline consists of five sequential steps:
 
-1. Allele Count (AC) Filter
+### 1. Allele Count (AC) Filter
 Filters the VCF file by allele count, keeping only variants with an allele count (AC) greater than or equal to **10**.
 
 2. Missense Filter
