@@ -20,3 +20,6 @@ Extracts only the protein acession number, allele count, and mutation position a
 
 ### 5. Canonical Protein Filter
 Uses a list of canonical protein accession numbers (found in the misc folder) to retain only variants corresponding to canonical proteins and removes all non-canonical protein entries.
+
+## Running the Program
+The files can be run directly through the Python IDLE console. The pathname to the input files is required, and the output file will be created within the console as well. 
